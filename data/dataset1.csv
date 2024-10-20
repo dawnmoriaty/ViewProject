@@ -1,0 +1,101 @@
+ID,label,text,lable_num
+1,spam,"Nhân Tháng nâng cao nhận thức về an ninh mạng, khám phá các tính năng của Google để tăng cường an toàn trực tuyến của bạn",0
+2,spam,điểm nổi bật trong tháng 9 của bạn,0
+3,spam,hãy thử các mẹo khi đi du lịch sau đây nhân Ngày Du lịch Thế giới,0
+4,spam,Bạn có 2 thông báo mới trên Trí Tuệ Nhân Tạo kể từ 15:33 (14 tháng 9 năm 2024),0
+5,spam,Các lựa chọn mới để quản lý trải nghiệm cá nhân hoá trên Google Play,0
+6,spam,Gmail của bạn sắp hết dung lượng lưu trữ,0
+7,spam,"Bạn muốn giữ lại Dòng thời gian? Hãy đưa ra quyết định muộn nhất vào ngày 8 tháng 12, 2024",0
+8,spam,Mở khóa giảm giá lên đến 50% trong Chiến dịch Mega 10.10 của Lovito,0
+9,spam,"BẠN MỚI GỬI TIỀN, THƯỞNG THÊM LÃI SUẤT ĐẾN 0.66%/NĂM",0
+10,spam,Việc làm có thể bạn quan tâm,0
+11,ham,[HSVDHKTHN] THÔNG BÁO TRÚNG TUYỂN CTV BAN VĂN PHÒNG - ĐỐI NGOẠI HỘI SINH VIÊN TRƯỜNG,1
+12,ham,"THƯ MỜI TÀI TRỢ CHƯƠNG TRÌNH ""TUẦN LỄ 'SINH VIÊN 5 TỐT' 2024"" - Hội Sinh viên Việt Nam trường Đại học Kiến trúc Hà Nội",1
+13,ham,QUY TRÌNH VÀ GIẤY TỜ THÀNH LẬP CÂU LẠC BỘ,1
+14,ham,CLB NHÀ KINH TẾ TRẺ GỬI BẢN KẾ HOẠCH CUỘC THI MISS & MR KINH TẾ,1
+15,ham,"THƯ MỜI TÀI TRỢ CHƯƠNG TRÌNH ""CHÀO TÂN SINH VIÊN - THE DREAMERS 2023"" - Hội Sinh viên Việt Nam trường Đại học Kiến trúc Hà Nội",1
+16,ham,CLB SINH VIÊN VẬN ĐỘNG HIẾN MÁU GỬI BẢNG TỔNG HỢP ĐRL KÌ I NĂM 2023-2024,1
+17,ham,CV CHUYỂN GIAO NHIỆM KỲ 2023-2024 CLB THỜI TRANG HAU,1
+18,ham,"THƯ MỜI THAM DỰ CHUỖI TRIỂN LÃM ""THE EVOLUTION 2023",1
+19,ham,KHOA ĐÔ THỊ - ĐRL CHỈNH SỬA KÌ 2 NĂM 22-23,1
+20,ham,BÁO CÁO THÀNH TÍCH THI ĐUA NĂM HỌC 2022-2023 KHOA CÔNG NGHỆ THÔNG TIN,1
+21,spam,6 bài viết nổi bật trên Facebook,0
+22,spam,Sale sẽ kết thúc hôm nay! Mua ngay để nhận các khóa học đang giảm giá,0
+23,ham,Cảnh báo bảo mật,1
+24,ham,Thong bao giao dich thanh cong,1
+25,spam,"Java Fullstack Developer (Spring, English) lương từ 2600$ và nhiều cơ hội hơn nữa",0
+26,ham,Full bộ source code: Simple Task Microservices,1
+27,ham,Khảo sát sự hài lòng của người hiến máu tháng 9/2024,1
+28,ham,"yêu cầu quyền truy cập vào ""Tài liệu không có tiêu đề""",1
+29,ham,Cloudinary - xác nhận code,1
+30,ham,Xác Nhận Đăng Nhập Discord từ Địa Điểm Mới,1
+31,spam,"Siêu thị rất tốn kém. Bạn muốn chi tiêu ít hơn ở đó, Đăng?",0
+32,ham,Trung tâm Khảo thí ĐHQGHN: Phiếu báo dự thi HSA,1
+33,ham,[ĐHBKHN2022] Nội dung Giấy báo dự thi kỳ thi ĐGTD 2022,1
+34,spam,5 cơ hội mới Robotics Engineer (Remote anywhere from Vietnam) tổ chức tại Findicia,0
+35,spam,Chatgpt có thể được sử dụng cho chuỗi thời gian không?,0
+36,spam,thông báo giảm giá,0
+37,spam,GfG mỗi tuần  [Rated] #176 nay là chủ nhật,0
+38,spam,Kỹ sư kiểm thử tự động hóa (Java) và 3 công việc khác dành cho bạn,0
+39,spam,Cập nhật Điều khoản dịch vụ của LinkedIn,0
+40,ham,Fwd: Em gửi chị Slide môn Tư tưởng Hồ Chí Minh ạ!,1
+41,spam,Đã đến lúc!! Hãy tận hưởng ưu đãi tiết kiệm lớn trong suốt chương trình Flash Sale 24 Giờ của chúng tôi.,0
+42,spam,Sale sẽ kết thúc hôm nay!,0
+43,spam,"Từ nay, bạn có thể sử dụng Photoshop bằng tiếng Việt",0
+44,spam,Ôi không! Tài khoản của bạn hết hạn rồi!,0
+45,spam,Quà tặng từ MFast: GCN Bảo hiểm TNDSBB Xe Máy,0
+46,spam,[QC] 15.10 - Sale giữa tháng - Lưu ngay loạt mã Voucher mở sớm,0
+47,spam,Hôm nay là ngày cuối cùng để hưởng ưu đãi tiết kiệm cho hàng nghìn khóa học.,0
+48,spam,Học kỹ năng để sống và kiếm sống,0
+49,spam,"Ưu đãi Tri ân học viên sẽ kết thúc hôm nay",0
+50,spam,GrabCashless  Ưu đãi khi thanh toán không dùng tiền mặt,0
+51,ham,Yêu cầu trả hàng 2410130FCQQBP3F được chấp nhận,1
+52,ham,"Linh Chi đã giao cho bạn một nhiệm vụ về ""CÔNG NGHỆ PHẦN MỀM""",1
+53,ham,"Biên lai cho chuyến xe Gojek vào Chủ nhật, 15 Tháng 9 2024",1
+54,ham,ĐƠN XIN ĐỔI HỌC PHẦN - Trịnh Quỳnh Trang,1
+55,ham,Cảnh báo bảo mật quan trọng,1
+56,ham,Xác thực đăng ký tham gia,1
+57,ham,"Tài liệu được chia sẻ với bạn: ""Đề cương môn hệ điệu hành (lý thuyết).docx""",1
+58,ham,Lazada đã nhận đơn hàng 468897545416548,1
+59,ham,Xác thực tài khoản Be,1
+60,ham,Fwd: C Thanh gửi tài liệu,1
+61,spam,"CEO The New Leaders - tổ chức giáo dục với các chương trình đào tạo lãnh đạo chú trọng trí tuệ cảm xúc (EQ) dựa trên khung chương trình từ các trường đại học danh tiếng như Harvard, Cornell, và Oxford.",0
+62,spam,"Sau 3 tháng tham gia Futur Creators cùng với Kevin, bằng tất cả sự may mắn và nổ lực...Thành đã tìm được một khách hàng lâu dài trên Fiverr và kiếm được hơn $400 trong vòng 1 tháng rưỡi.",0
+63,spam,"Huong Nguyen đã gửi tin nhắn đến ""group"" ""nhóm rô ron"". Vu Kim, Duyên và 7 người khác cũng có mặt trong nhóm ""group"" này.",0
+64,spam,"Bạn muốn giữ lại Dòng thời gian? Hãy đưa ra quyết định muộn nhất vào ngày 8 tháng 12, 2024",0
+65,spam,"Hà Hiền đã gửi tin nhắn đến ""group conversation"" ""nhóm rô ron"".",0
+66,spam,Đăng Phùng Đức đã mời bạn vào bảng Trello,0
+67,spam,[QC] MUA SẮM TRÊN LAZADA – ƯU ĐÃI THẢ GA CÙNG THẺ VIETCOMBANK,0
+68,spam,"Công ty Cổ phần Chứng khoán VPS (VPS) xin chân thành cảm ơn Quý khách đã tin tưởng và lựa chọn sử dụng các sản phẩm, dịch vụ của Công ty trong thời gian qua.",0
+69,spam,SungSamphone hiện đã có thể dùng mạng lưới Tìm thiết bị của tôi.,0
+70,spam,Thay đổi đối với chế độ xác minh giao dịch mua trên Google Play,0
+71,spam,Bạn đã cập nhật chế độ xác minh giao dịch mua qua Google Play trên Samsung SM-A336E cho nguyenduc48,0
+72,spam,[QC] Đầu tư an toàn - Lợi nhuận vượt trội,0
+73,spam,Spears Lalle Emma đã gửi cho bạn một tin nhắn.,0
+74,spam,[TB] CHÍNH THỨC RA MẮT VCB DIGIBANK HOÀN TOÀN MỚI,0
+75,spam,Quà tặng của khóa học miễn phí đây bro! (FuturCreators),0
+76,spam,"Bạn có một gợi ý kết bạn mới: Xuân Phùng.",0
+77,spam,"Yêu cầu quyền truy cập vào ""TIỂU BAN 2""",0
+78,spam,Mã dùng 1 lần từ McDonald’s,0
+79,spam,[QC] Nhận ngay 10.000 VND (10 Điểm) Khi hoàn thành khảo sát nè U22 ơi!!!,0
+80,ham,"Linh Chi đã trả lời bình luận về ""CÔNG NGHỆ PHẦN MỀM""",1
+81,ham,Đăng Phùng Đức đã mời bạn tham gia Không gian làm việc không gian làm việc của Đăng Phùng Đức của họ,1
+82,ham,Bộ nhớ Gmail của bạn sắp đầy,1
+83,ham,Dung lượng iCloud của bạn đã đầy. ,1
+84,ham,"Yêu cầu quyền truy cập vào ""TKB """,1
+85,spam,Chào Ngô Gia! Chào mừng bạn đến với Học viện Play!,0
+86,spam,iPhone của bạn được tặng 3 tháng miễn phí.,0
+87,ham,Bạn đã dùng 99% bộ nhớ,1
+88,spam,[Thư nhắc] Ứng dụng Jamboard ngừng hoạt động,0
+89,spam,Các lựa chọn mới để quản lý trải nghiệm cá nhân hoá trên Google Play,0
+90,spam,Việc làm có thể bạn quan tâm,0
+91,spam,Các lựa chọn mới để quản lý trải nghiệm cá nhân hoá trên Google Play,0
+92,ham,Nhắc nhở: Thêm CV của bạn vào hồ sơ ,1
+93,ham,OTP từ SoBanHang,1
+94,spam,Xem công bố đặc biệt từ Apple.,0
+95,ham,Đăng Phùng Đức đã loại bạn khỏi bảng Trí Tuệ Nhân Tạo,1
+96,ham,Đăng Phùng Đức đã mời bạn vào bảng Trello,1
+97,spam,[QC] mua sắm trên lazada – ưu đãi thả ga cùng thẻ vietcombank,0
+98,spam,[QC] 10 năm thành lập quỹ đầu tư cổ phiếu hàng đầu vcbf,0
+99,spam,"[QC] ƯU ĐÃI ĐẶT XE - NHẬP MÃ ""PAYDAY9""",0
+100,spam,Shopee thông báo về chính sách mới của ứng dụng,0
