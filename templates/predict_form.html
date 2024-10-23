@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Spam</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Predict Spam</h1>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }}">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <form action="{{ url_for('predict') }}" method="POST">
+            <label for="text">Enter text to predict:</label>
+            <textarea id="text" name="text" rows="4" required></textarea>
+
+            <label for="language">Select language:</label>
+            <select id="language" name="language" required>
+                <option value="english">English</option>
+                <option value="vietnamese">Vietnamese</option>
+            </select>
+
+            <button type="submit">Predict</button>
+        </form>
+
+        <a href="{{ url_for('select_file') }}" class="button">Back to File Selection</a>
+    </div>
+</body>
+</html>

@@ -40,8 +40,8 @@ def preprocess_text(text, language):
     return ' '.join(words)
 
 # Đọc dữ liệu đầu vào
-data_en = pd.read_csv('data/emails_english.csv')
-data_vi = pd.read_csv('data/dataset1.csv')
+data_en = pd.read_csv('data/english/emails_english.csv')
+data_vi = pd.read_csv('data/vietnamese/dataset1.csv')
 
 # # Kiểm tra tên cột trong DataFrame
 # print("Tên cột trong emails_vietnamese.csv:", data_vi.columns)

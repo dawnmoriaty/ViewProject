@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select CSV File for Training</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Select a CSV File for Training</h1>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }}">{{ message }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <h2>English Dataset</h2>
+        <form action="{{ url_for('train_model') }}" method="POST">
+            <input type="hidden" name="language" value="english">
+            <label for="file_en">Choose an English CSV file:</label>
+            <select id="file_en" name="file">
+                {% for file in files_en %}
+                <option value="{{ file }}">{{ file }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Train English Model</button>
+        </form>
+
+        <h2>Vietnamese Dataset</h2>
+        <form action="{{ url_for('train_model') }}" method="POST">
+            <input type="hidden" name="language" value="vietnamese">
+            <label for="file_vi">Choose a Vietnamese CSV file:</label>
+            <select id="file_vi" name="file">
+                {% for file in files_vi %}
+                <option value="{{ file }}">{{ file }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Train Vietnamese Model</button>
+        </form>
+
+        <a href="{{ url_for('predict') }}" class="button">Go to Prediction</a>
+    </div>
+</body>
+</html>

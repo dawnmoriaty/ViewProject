@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a20831c-efdf-4ca2-94b9-84ecd1dd713f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ViewProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/dataset1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/emails_english.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/emails_vietnamese.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email_spam_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/predict_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/prediction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/select_file.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dataset1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/vietnamese/dataset1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/emails_english.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/english/emails_english.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/emails_vietnamese.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/vietnamese/emails_vietnamese.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/email_spam_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/email_spam_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     &quot;Flask server.ViewProject.executor&quot;: &quot;Run&quot;,
     &quot;Python.email_spam_detection.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/ProjectAI_Class/ViewProject&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -65,6 +64,10 @@
       <recent name="D:\ProjectAI_Class\ViewProject" />
       <recent name="D:\ProjectAI_Class\ViewProject\data" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProjectAI_Class\ViewProject\data\vietnamese" />
+      <recent name="D:\ProjectAI_Class\ViewProject\data\english" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="ViewProject" type="Python.FlaskServer">
@@ -75,7 +78,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -102,7 +105,11 @@
       <updated>1729396146649</updated>
       <workItem from="1729396148117" duration="2943000" />
       <workItem from="1729431567870" duration="3187000" />
-      <workItem from="1729442674079" duration="2033000" />
+      <workItem from="1729442674079" duration="2220000" />
+      <workItem from="1729487283586" duration="2461000" />
+      <workItem from="1729489987750" duration="562000" />
+      <workItem from="1729607213190" duration="7704000" />
+      <workItem from="1729657185864" duration="1948000" />
     </task>
     <servers />
   </component>
@@ -110,7 +117,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ViewProject$ViewProject.coverage" NAME="ViewProject Coverage Results" MODIFIED="1729445818967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ViewProject$ViewProject.coverage" NAME="ViewProject Coverage Results" MODIFIED="1729659588385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ViewProject$email_spam_detection.coverage" NAME="email_spam_detection Coverage Results" MODIFIED="1729434720088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ViewProject$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1729433354462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>

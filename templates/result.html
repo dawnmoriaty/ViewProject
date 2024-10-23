@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kết quả huấn luyện mô hình</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Kết quả huấn luyện mô hình</h1>
+        <table>
+            <tr>
+                <th>File dữ liệu</th>
+                <td>{{ file }}</td>
+            </tr>
+            <tr>
+                <th>Ngôn ngữ</th>
+                <td>{{ language }}</td>
+            </tr>
+            <tr>
+                <th>Độ chính xác (Accuracy)</th>
+                <td>{{ accuracy|round(4) }}</td>
+            </tr>
+            <tr>
+                <th>Độ chính xác (Precision)</th>
+                <td>{{ precision|round(4) }}</td>
+            </tr>
+            <tr>
+                <th>Độ phủ (Recall)</th>
+                <td>{{ recall|round(4) }}</td>
+            </tr>
+            <tr>
+                <th>F1-score</th>
+                <td>{{ f1|round(4) }}</td>
+            </tr>
+        </table>
+        <a href="{{ url_for('select_file') }}" class="button">Back to File Selection</a>
+        <a href="{{ url_for('predict') }}" class="button">Go to Prediction</a>
+    </div>
+</body>
+</html>
