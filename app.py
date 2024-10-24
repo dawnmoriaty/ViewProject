@@ -80,8 +80,14 @@ def train_model():
     try:
         selected_file = request.form['file']
         language = request.form['language']
+        test_size = float(request.form['test_size'])  # Lấy giá trị test_size từ form
 
-        logging.info(f"Training model for {language} using file {selected_file}")
+        # Kiểm tra giá trị test_size hợp lệ
+        if not (0.1 <= test_size <= 0.9):
+            flash("Test size phải nằm trong khoảng từ 0.1 đến 0.9", 'error')
+            return redirect(url_for('select_file'))
+
+        logging.info(f"Training model for {language} using file {selected_file} with test_size {test_size}")
 
         if language == 'english':
             file_path = os.path.join(DATA_FOLDER_EN, selected_file)
@@ -100,7 +106,8 @@ def train_model():
         X = vectorizer.fit_transform(data['text'])
         y = data['label']
 
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, random_state=42)
+        # Sử dụng test_size từ form
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=test_size, random_state=42)
 
         nb_model = MultinomialNB()
         nb_model.fit(X_train, y_train)
