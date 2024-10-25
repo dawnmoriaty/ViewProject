@@ -1,0 +1,501 @@
+﻿ID,label,text,label_num
+1001,spam,Subject: Nhấn vào đây để nhận thẻ tín dụng miễn phí!,0
+1002,spam,Subject: Cảm giác tuyệt vời khi có tiền trong tài khoản chỉ với 30 phút!,0
+1003,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1004,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1005,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1006,spam,Subject: Cảm giác tuyệt vời khi có tiền trong tài khoản chỉ với 30 phút!,0
+1007,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1008,spam,Subject: Bạn đã trúng giải 1 triệu đồng! Nhấn vào đây để nhận!,0
+1009,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1010,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1011,ham,Subject: Chương trình khuyến mãi cho thuê phim trực tuyến chỉ trong tháng này.,1
+1012,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1013,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1014,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1015,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1016,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1017,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1018,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1019,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1020,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1021,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1022,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1023,spam,Subject: Khóa học miễn phí về cách kiếm tiền online!,0
+1024,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1025,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1026,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1027,ham,Subject: Bạn có thể tạo thẻ tín dụng ngay hôm nay!,1
+1028,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1029,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1030,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1031,ham,Subject: Hãy kiểm tra lịch phát sóng chương trình yêu thích của bạn.,1
+1032,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1033,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1034,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1035,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1036,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1037,ham,Subject: Hãy tham gia hội thảo trực tuyến về kỹ năng mềm!,1
+1038,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1039,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1040,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1041,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1042,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền nhanh chóng từ nhà!,0
+1043,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1044,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1045,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1046,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1047,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1048,spam,Subject: Bạn đã trúng giải 1 triệu đồng! Nhấn vào đây để nhận!,0
+1049,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1050,spam,Subject: Khóa học miễn phí về cách kiếm tiền online!,0
+1051,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1052,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1053,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1054,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1055,spam,"Subject: Sản phẩm chống lão hóa siêu hiệu quả, đảm bảo 100%!",0
+1056,ham,Subject: Chương trình khuyến mãi cho thuê phim trực tuyến chỉ trong tháng này.,1
+1057,ham,Subject: Hãy kiểm tra lịch phát sóng chương trình yêu thích của bạn.,1
+1058,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1059,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1060,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1061,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1062,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1063,ham,Subject: Cảm ơn bạn đã mua hàng tại cửa hàng chúng tôi.,1
+1064,ham,Subject: Hãy theo dõi đơn hàng của bạn qua ứng dụng!,1
+1065,ham,Subject: Tài liệu học tập đã được cập nhật trên trang web.,1
+1066,ham,Subject: Cảm ơn bạn đã tham gia vào chương trình sự kiện giải trí!,1
+1067,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1068,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1069,spam,Subject: Cảm giác tuyệt vời khi có tiền trong tài khoản chỉ với 30 phút!,0
+1070,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1071,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1072,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1073,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1074,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1075,ham,Subject: Cảm ơn bạn đã tham gia chương trình sức khỏe của chúng tôi.,1
+1076,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1077,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1078,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1079,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền từ việc xem video!,0
+1080,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1081,spam,Subject: Khóa học miễn phí về cách kiếm tiền online!,0
+1082,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1083,ham,Subject: Cảm ơn bạn đã tham gia vào chương trình sự kiện giải trí!,1
+1084,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1085,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1086,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền nhanh chóng từ nhà!,0
+1087,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1088,spam,Subject: Cảm giác tuyệt vời khi có tiền trong tài khoản chỉ với 30 phút!,0
+1089,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1090,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1091,ham,Subject: Hãy theo dõi đơn hàng của bạn qua ứng dụng!,1
+1092,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1093,ham,Subject: Hãy tham gia hội thảo trực tuyến về kỹ năng mềm!,1
+1094,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1095,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1096,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1097,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1098,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1099,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền từ việc xem video!,0
+1100,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1101,spam,Subject: Cơ hội trở thành chuyên gia trong một tháng!,0
+1102,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1103,ham,Subject: Hãy tham gia hội thảo trực tuyến về kỹ năng mềm!,1
+1104,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1105,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1106,ham,Subject: Cảm ơn bạn đã tham gia vào chương trình sự kiện giải trí!,1
+1107,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1108,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1109,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1110,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1111,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1112,ham,Subject: Chúng tôi đã nhận được yêu cầu đổi hàng của bạn.,1
+1113,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1114,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1115,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1116,spam,Subject: Khóa học miễn phí về cách kiếm tiền online!,0
+1117,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1118,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1119,ham,Subject: Hãy theo dõi đơn hàng của bạn qua ứng dụng!,1
+1120,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1121,spam,Subject: Cơ hội trở thành diễn viên nổi tiếng từ một cuộc thi!,0
+1122,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1123,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1124,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1125,ham,Subject: Giảm giá 20% cho lần mua sắm tiếp theo của bạn!,1
+1126,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1127,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1128,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1129,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1130,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1131,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1132,ham,Subject: Chương trình khuyến mãi cho thuê phim trực tuyến chỉ trong tháng này.,1
+1133,spam,Subject: Bạn có muốn trở nên khỏe mạnh hơn mà không cần tập luyện?,0
+1134,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1135,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1136,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1137,spam,Subject: Cơ hội trở thành diễn viên nổi tiếng từ một cuộc thi!,0
+1138,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1139,spam,Subject: Khóa học miễn phí về cách kiếm tiền online!,0
+1140,ham,Subject: Giảm giá 20% cho lần mua sắm tiếp theo của bạn!,1
+1141,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1142,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1143,ham,Subject: Cảm ơn bạn đã sử dụng dịch vụ ngân hàng trực tuyến.,1
+1144,ham,Subject: Chương trình khuyến mãi cho thuê phim trực tuyến chỉ trong tháng này.,1
+1145,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1146,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1147,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1148,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1149,spam,Subject: Cơ hội trở thành chuyên gia trong một tháng!,0
+1150,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1151,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1152,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1153,ham,Subject: Bạn có thể tạo thẻ tín dụng ngay hôm nay!,1
+1154,spam,Subject: Cơ hội trở thành chuyên gia trong một tháng!,0
+1155,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1156,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1157,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1158,spam,Subject: Nhấn vào đây để nhận thẻ tín dụng miễn phí!,0
+1159,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1160,ham,Subject: Cảm ơn bạn đã sử dụng dịch vụ ngân hàng trực tuyến.,1
+1161,ham,Subject: Hãy tham gia hội thảo trực tuyến về kỹ năng mềm!,1
+1162,spam,Subject: Nhấn vào đây để nhận thẻ tín dụng miễn phí!,0
+1163,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1164,spam,Subject: Bạn đã trúng giải 1 triệu đồng! Nhấn vào đây để nhận!,0
+1165,ham,Subject: Cảm ơn bạn đã tham gia vào chương trình sự kiện giải trí!,1
+1166,ham,Subject: Hãy kiểm tra lịch phát sóng chương trình yêu thích của bạn.,1
+1167,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1168,ham,Subject: Chúng tôi đã nhận được yêu cầu đổi hàng của bạn.,1
+1169,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền nhanh chóng từ nhà!,0
+1170,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1171,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1172,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1173,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1174,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1175,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1176,spam,Subject: Nhấn vào đây để nhận thẻ tín dụng miễn phí!,0
+1177,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1178,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1179,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1180,ham,Subject: Bạn có thể tạo thẻ tín dụng ngay hôm nay!,1
+1181,ham,Subject: Chúng tôi đã nhận được yêu cầu đổi hàng của bạn.,1
+1182,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1183,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1184,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1185,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1186,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1187,spam,Subject: Cảm giác tuyệt vời khi có tiền trong tài khoản chỉ với 30 phút!,0
+1188,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1189,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1190,ham,Subject: Giảm giá 20% cho lần mua sắm tiếp theo của bạn!,1
+1191,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1192,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1193,ham,Subject: Bạn có thể tạo thẻ tín dụng ngay hôm nay!,1
+1194,ham,Subject: Chương trình khuyến mãi cho thuê phim trực tuyến chỉ trong tháng này.,1
+1195,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1196,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền nhanh chóng từ nhà!,0
+1197,spam,Subject: Cơ hội trở thành diễn viên nổi tiếng từ một cuộc thi!,0
+1198,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1199,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1200,spam,Subject: Bạn có muốn trở nên khỏe mạnh hơn mà không cần tập luyện?,0
+1201,ham,Subject: Hãy theo dõi đơn hàng của bạn qua ứng dụng!,1
+1202,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1203,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1204,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1205,spam,Subject: Cơ hội trở thành diễn viên nổi tiếng từ một cuộc thi!,0
+1206,ham,Subject: Chúng tôi đã nhận được yêu cầu đổi hàng của bạn.,1
+1207,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1208,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền nhanh chóng từ nhà!,0
+1209,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1210,ham,Subject: Giảm giá 20% cho lần mua sắm tiếp theo của bạn!,1
+1211,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1212,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1213,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1214,ham,Subject: Hãy theo dõi đơn hàng của bạn qua ứng dụng!,1
+1215,ham,Subject: Cảm ơn bạn đã tham gia chương trình sức khỏe của chúng tôi.,1
+1216,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1217,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1218,ham,Subject: Chúng tôi đã nhận được yêu cầu đổi hàng của bạn.,1
+1219,ham,Subject: Hãy tham gia hội thảo trực tuyến về kỹ năng mềm!,1
+1220,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1221,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1222,spam,Subject: Cơ hội duy nhất: Mở tài khoản miễn phí và nhận quà!,0
+1223,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1224,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1225,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1226,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1227,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1228,ham,Subject: Cảm ơn bạn đã mua hàng tại cửa hàng chúng tôi.,1
+1229,spam,"Subject: Sản phẩm chống lão hóa siêu hiệu quả, đảm bảo 100%!",0
+1230,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1231,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1232,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1233,spam,Subject: Cơ hội trở thành diễn viên nổi tiếng từ một cuộc thi!,0
+1234,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1235,spam,Subject: Cơ hội trở thành diễn viên nổi tiếng từ một cuộc thi!,0
+1236,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1237,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1238,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1239,spam,Subject: Nhấn vào đây để nhận thẻ tín dụng miễn phí!,0
+1240,ham,Subject: Cảm ơn bạn đã mua hàng tại cửa hàng chúng tôi.,1
+1241,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1242,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1243,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1244,spam,Subject: Cơ hội trở thành chuyên gia trong một tháng!,0
+1245,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1246,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1247,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1248,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1249,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1250,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1251,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1252,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1253,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1254,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1255,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1256,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1257,ham,Subject: Cảm ơn bạn đã sử dụng dịch vụ ngân hàng trực tuyến.,1
+1258,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1259,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1260,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1261,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1262,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1263,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1264,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1265,spam,Subject: Cơ hội duy nhất: Mở tài khoản miễn phí và nhận quà!,0
+1266,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1267,ham,Subject: Tài liệu học tập đã được cập nhật trên trang web.,1
+1268,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1269,spam,Subject: Bạn có muốn trở nên khỏe mạnh hơn mà không cần tập luyện?,0
+1270,spam,Subject: Khóa học miễn phí về cách kiếm tiền online!,0
+1271,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1272,ham,Subject: Cảm ơn bạn đã tham gia chương trình sức khỏe của chúng tôi.,1
+1273,ham,Subject: Bạn có thể tạo thẻ tín dụng ngay hôm nay!,1
+1274,spam,"Subject: Sản phẩm chống lão hóa siêu hiệu quả, đảm bảo 100%!",0
+1275,ham,Subject: Bạn có thể tạo thẻ tín dụng ngay hôm nay!,1
+1276,spam,Subject: Cơ hội duy nhất: Mở tài khoản miễn phí và nhận quà!,0
+1277,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1278,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1279,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1280,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1281,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1282,ham,Subject: Cảm ơn bạn đã tham gia chương trình sức khỏe của chúng tôi.,1
+1283,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1284,spam,Subject: Cơ hội duy nhất: Mở tài khoản miễn phí và nhận quà!,0
+1285,ham,Subject: Cảm ơn bạn đã tham gia vào chương trình sự kiện giải trí!,1
+1286,ham,Subject: Hãy tham gia hội thảo trực tuyến về kỹ năng mềm!,1
+1287,spam,Subject: Khóa học miễn phí về cách kiếm tiền online!,0
+1288,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1289,ham,Subject: Hãy kiểm tra lịch phát sóng chương trình yêu thích của bạn.,1
+1290,ham,Subject: Cảm ơn bạn đã sử dụng dịch vụ ngân hàng trực tuyến.,1
+1291,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1292,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1293,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1294,spam,Subject: Bạn đã trúng giải 1 triệu đồng! Nhấn vào đây để nhận!,0
+1295,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1296,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1297,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1298,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1299,ham,Subject: Tài liệu học tập đã được cập nhật trên trang web.,1
+1300,ham,Subject: Cảm ơn bạn đã mua hàng tại cửa hàng chúng tôi.,1
+1301,ham,Subject: Hãy tham gia hội thảo trực tuyến về kỹ năng mềm!,1
+1302,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1303,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1304,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1305,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1306,ham,Subject: Cảm ơn bạn đã sử dụng dịch vụ ngân hàng trực tuyến.,1
+1307,ham,Subject: Cảm ơn bạn đã tham gia chương trình sức khỏe của chúng tôi.,1
+1308,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1309,spam,Subject: Cơ hội duy nhất: Mở tài khoản miễn phí và nhận quà!,0
+1310,ham,Subject: Giảm giá 20% cho lần mua sắm tiếp theo của bạn!,1
+1311,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1312,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1313,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1314,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền từ việc xem video!,0
+1315,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1316,ham,Subject: Chúng tôi đã cập nhật thông tin về bệnh viện trên trang web.,1
+1317,ham,Subject: Chương trình khuyến mãi cho thuê phim trực tuyến chỉ trong tháng này.,1
+1318,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1319,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1320,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1321,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1322,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1323,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1324,ham,Subject: Giảm giá 20% cho lần mua sắm tiếp theo của bạn!,1
+1325,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1326,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1327,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1328,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1329,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1330,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1331,spam,Subject: Cảm giác tuyệt vời khi có tiền trong tài khoản chỉ với 30 phút!,0
+1332,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1333,spam,Subject: Bạn có muốn trở nên khỏe mạnh hơn mà không cần tập luyện?,0
+1334,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1335,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1336,spam,Subject: Cơ hội trở thành chuyên gia trong một tháng!,0
+1337,spam,Subject: Cơ hội trở thành diễn viên nổi tiếng từ một cuộc thi!,0
+1338,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1339,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1340,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1341,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1342,spam,Subject: Khóa học miễn phí về cách kiếm tiền online!,0
+1343,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1344,ham,Subject: Chúng tôi đã nhận được yêu cầu đổi hàng của bạn.,1
+1345,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1346,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1347,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1348,ham,Subject: Bạn có thể tạo thẻ tín dụng ngay hôm nay!,1
+1349,ham,Subject: Cảm ơn bạn đã sử dụng dịch vụ ngân hàng trực tuyến.,1
+1350,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1351,ham,Subject: Chương trình khuyến mãi cho thuê phim trực tuyến chỉ trong tháng này.,1
+1352,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1353,ham,Subject: Hãy kiểm tra lịch phát sóng chương trình yêu thích của bạn.,1
+1354,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1355,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1356,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1357,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1358,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1359,spam,Subject: Cảm giác tuyệt vời khi có tiền trong tài khoản chỉ với 30 phút!,0
+1360,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1361,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1362,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1363,spam,Subject: Cơ hội duy nhất: Mở tài khoản miễn phí và nhận quà!,0
+1364,ham,Subject: Tài liệu học tập đã được cập nhật trên trang web.,1
+1365,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1366,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1367,ham,Subject: Tài liệu học tập đã được cập nhật trên trang web.,1
+1368,spam,Subject: Cơ hội trở thành chuyên gia trong một tháng!,0
+1369,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1370,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1371,spam,Subject: Cơ hội duy nhất: Mở tài khoản miễn phí và nhận quà!,0
+1372,ham,Subject: Cảm ơn bạn đã tham gia vào chương trình sự kiện giải trí!,1
+1373,spam,Subject: Bạn đã trúng giải 1 triệu đồng! Nhấn vào đây để nhận!,0
+1374,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1375,ham,Subject: Hãy kiểm tra lịch phát sóng chương trình yêu thích của bạn.,1
+1376,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1377,ham,Subject: Thông báo: Bạn đã được đặt lịch tiêm vaccine.,1
+1378,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền từ việc xem video!,0
+1379,ham,Subject: Chúng tôi đã nhận được yêu cầu đổi hàng của bạn.,1
+1380,ham,Subject: Đừng quên xem bộ phim mới ra mắt vào cuối tuần này!,1
+1381,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1382,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1383,ham,Subject: Cảm ơn bạn đã tham gia chương trình sức khỏe của chúng tôi.,1
+1384,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1385,ham,Subject: Chúng tôi đã cập nhật các bài hát mới nhất trên ứng dụng!,1
+1386,ham,Subject: Hãy tham gia hội thảo trực tuyến về kỹ năng mềm!,1
+1387,spam,"Subject: Sản phẩm chống lão hóa siêu hiệu quả, đảm bảo 100%!",0
+1388,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1389,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1390,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền từ việc xem video!,0
+1391,spam,Subject: Nhấn vào đây để nhận thẻ tín dụng miễn phí!,0
+1392,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1393,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền từ việc xem video!,0
+1394,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1395,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền nhanh chóng từ nhà!,0
+1396,ham,Subject: Hãy theo dõi đơn hàng của bạn qua ứng dụng!,1
+1397,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1398,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1399,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1400,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1401,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1402,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1403,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền từ việc xem video!,0
+1404,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1405,spam,"Subject: Sản phẩm chống lão hóa siêu hiệu quả, đảm bảo 100%!",0
+1406,spam,Subject: Cảm giác tuyệt vời khi có tiền trong tài khoản chỉ với 30 phút!,0
+1407,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1408,spam,"Subject: Giảm giá cực sốc, chỉ 50% cho sản phẩm không cần thiết!",0
+1409,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1410,ham,Subject: Cảm ơn bạn đã tham gia vào chương trình sự kiện giải trí!,1
+1411,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1412,spam,"Subject: Sản phẩm chống lão hóa siêu hiệu quả, đảm bảo 100%!",0
+1413,spam,Subject: Bạn có muốn trở nên khỏe mạnh hơn mà không cần tập luyện?,0
+1414,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1415,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền nhanh chóng từ nhà!,0
+1416,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1417,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền từ việc xem video!,0
+1418,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1419,ham,Subject: Hãy kiểm tra báo cáo giao dịch của bạn trong ứng dụng.,1
+1420,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền từ việc xem video!,0
+1421,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1422,ham,Subject: Hãy theo dõi đơn hàng của bạn qua ứng dụng!,1
+1423,ham,Subject: Hãy tham gia hội thảo trực tuyến về kỹ năng mềm!,1
+1424,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1425,spam,Subject: Chúng tôi tặng bạn 100 triệu đồng khi mở tài khoản mới!,0
+1426,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1427,ham,Subject: Cảm ơn bạn đã tham gia chương trình sức khỏe của chúng tôi.,1
+1428,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1429,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1430,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1431,ham,Subject: Cảm ơn bạn đã mua hàng tại cửa hàng chúng tôi.,1
+1432,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1433,ham,Subject: Bạn có thể tạo thẻ tín dụng ngay hôm nay!,1
+1434,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1435,spam,Subject: Bạn đã trúng giải 1 triệu đồng! Nhấn vào đây để nhận!,0
+1436,spam,Subject: Bạn đã trúng giải 1 triệu đồng! Nhấn vào đây để nhận!,0
+1437,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1438,ham,Subject: Thông báo: Tài khoản của bạn đã được kích hoạt.,1
+1439,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1440,ham,Subject: Cảm ơn bạn đã tham gia chương trình sức khỏe của chúng tôi.,1
+1441,ham,Subject: Hẹn lịch khám bệnh với bác sĩ qua ứng dụng của chúng tôi.,1
+1442,ham,Subject: Chúng tôi đã gửi thông báo về khoản vay mới cho bạn.,1
+1443,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1444,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1445,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1446,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1447,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1448,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1449,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1450,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1451,ham,Subject: Hãy theo dõi sức khỏe của bạn với ứng dụng sức khỏe.,1
+1452,ham,Subject: Chúng tôi đã gửi chứng nhận hoàn thành khóa học cho bạn.,1
+1453,spam,"Subject: Sản phẩm chống lão hóa siêu hiệu quả, đảm bảo 100%!",0
+1454,ham,Subject: Tài liệu học tập đã được cập nhật trên trang web.,1
+1455,spam,Subject: Bạn có thể giảm cân nhanh chóng với sản phẩm này!,0
+1456,spam,Subject: Cơ hội trở thành chuyên gia trong một tháng!,0
+1457,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1458,spam,Subject: Bạn có muốn trở thành triệu phú? Nhấn vào đây để tìm hiểu thêm!,0
+1459,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1460,spam,Subject: Bạn có muốn trở nên khỏe mạnh hơn mà không cần tập luyện?,0
+1461,spam,Subject: Cơ hội trở thành diễn viên nổi tiếng từ một cuộc thi!,0
+1462,ham,Subject: Tài liệu học tập đã được cập nhật trên trang web.,1
+1463,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1464,spam,Subject: Nhấn vào đây để nhận thẻ tín dụng miễn phí!,0
+1465,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1466,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1467,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1468,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1469,ham,"Subject: Chào bạn, đơn hàng của bạn đã được giao thành công!",1
+1470,ham,Subject: Cảm ơn bạn đã sử dụng dịch vụ ngân hàng trực tuyến.,1
+1471,spam,Subject: Mua thuốc giảm cân với giá chỉ 99k!,0
+1472,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1473,spam,Subject: Nhấn vào đây để biết bí quyết trẻ hóa da từ thiên nhiên!,0
+1474,ham,Subject: Chương trình khuyến mãi cho thuê phim trực tuyến chỉ trong tháng này.,1
+1475,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1476,spam,Subject: Đừng bỏ lỡ cơ hội kiếm tiền nhanh chóng từ nhà!,0
+1477,ham,Subject: Hãy kiểm tra lịch phát sóng chương trình yêu thích của bạn.,1
+1478,spam,Subject: Bạn đã trúng thưởng iPhone 14! Nhấn vào đây để nhận ngay.,0
+1479,spam,Subject: Nhấn vào đây để nhận thông tin về thuốc tăng cường sinh lý!,0
+1480,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1481,spam,Subject: Đừng bỏ lỡ: Chương trình học bổng 100%!,0
+1482,spam,Subject: Bạn có muốn trở nên khỏe mạnh hơn mà không cần tập luyện?,0
+1483,spam,Subject: Nhận ngay tài liệu miễn phí cho kỳ thi sắp tới!,0
+1484,ham,Subject: Giảm giá 20% cho lần mua sắm tiếp theo của bạn!,1
+1485,spam,Subject: Bạn đã trúng giải 1 triệu đồng! Nhấn vào đây để nhận!,0
+1486,spam,Subject: Chương trình khuyến mãi cực sốc: Xem phim miễn phí!,0
+1487,ham,Subject: Cảm ơn bạn đã tham gia vào chương trình sự kiện giải trí!,1
+1488,spam,Subject: Đừng bỏ lỡ cơ hội vay tiền nhanh chóng mà không cần chứng minh thu nhập!,0
+1489,spam,Subject: Cơ hội duy nhất: Mở tài khoản miễn phí và nhận quà!,0
+1490,spam,Subject: Bạn có muốn trở nên khỏe mạnh hơn mà không cần tập luyện?,0
+1491,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1492,spam,Subject: Bạn có thể học bất kỳ kỹ năng nào chỉ trong 7 ngày!,0
+1493,ham,Subject: Chương trình khuyến mãi cho thuê phim trực tuyến chỉ trong tháng này.,1
+1494,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1495,ham,Subject: Đừng bỏ lỡ khóa học trực tuyến miễn phí về lập trình!,1
+1496,spam,Subject: Cơ hội trở thành chuyên gia trong một tháng!,0
+1497,spam,Subject: Nhấn vào đây để nhận link tải game miễn phí!,0
+1498,ham,Subject: Cảm ơn bạn đã đăng ký khóa học tiếng Anh của chúng tôi.,1
+1499,spam,Subject: Bạn có muốn trở nên khỏe mạnh hơn mà không cần tập luyện?,0
+1500,spam,Subject: Khóa học miễn phí về cách kiếm tiền online!,0
