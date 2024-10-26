@@ -6,15 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9a20831c-efdf-4ca2-94b9-84ecd1dd713f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/english/emails_english.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/english/emails_english.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/vietnamese/dataset1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/vietnamese/emails_vietnamese.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model_english.joblib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/model_vietnamese.joblib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectorizer_english.joblib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectorizer_vietnamese.joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/select_file.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/select_file.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +114,9 @@
       <workItem from="1729870819019" duration="241000" />
       <workItem from="1729871174566" duration="1058000" />
       <workItem from="1729872571627" duration="644000" />
+      <workItem from="1729873320152" duration="2127000" />
+      <workItem from="1729905298108" duration="4083000" />
+      <workItem from="1729923293097" duration="37000" />
     </task>
     <servers />
   </component>

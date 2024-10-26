@@ -61,7 +61,7 @@ def save_model(model, vectorizer, language):
 
 
 def load_model(language):
-    model = joblib.oad(f'model_{language}.joblib')
+    model = joblib.load(f'model_{language}.joblib')
     vectorizer = joblib.load(f'vectorizer_{language}.joblib')
     logging.info(f"Model and vectorizer loaded for {language}")
     return model, vectorizer
