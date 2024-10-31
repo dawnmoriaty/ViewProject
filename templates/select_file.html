@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Select CSV File for Training</title>
+    <title>Chọn Tệp CSV Để Huấn Luyện</title>
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
@@ -11,25 +11,25 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8 col-lg-6">
-                <h1 class="text-center my-4">Select a CSV File for Training</h1>
+                <h1 class="text-center my-4">Chọn Tệp CSV Để Huấn Luyện</h1>
 
-                <!-- Flash messages -->
+                <!-- Thông báo Flash -->
                 {% with messages = get_flashed_messages(with_categories=true) %}
                     {% if messages %}
                         {% for category, message in messages %}
                             <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
                                 {{ message }}
-                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Đóng"></button>
                             </div>
                         {% endfor %}
                     {% endif %}
                 {% endwith %}
 
-                <h2 class="mt-4">English Dataset</h2>
+                <h2 class="mt-4">Tập Dữ Liệu Tiếng Anh</h2>
                 <form action="{{ url_for('train_model') }}" method="POST" class="mb-4">
                     <input type="hidden" name="language" value="english">
                     <div class="mb-3">
-                        <label for="file_en" class="form-label">Choose an English CSV file:</label>
+                        <label for="file_en" class="form-label">Chọn một tệp CSV tiếng Anh:</label>
                         <select id="file_en" name="file" class="form-select">
                             {% for file in files_en %}
                             <option value="{{ file }}">{{ file }}</option>
@@ -37,18 +37,18 @@
                         </select>
                     </div>
                     <div class="mb-3">
-                        <label for="test_size_en" class="form-label">Test Size (0.1 - 0.9):</label>
+                        <label for="test_size_en" class="form-label">Kích thước Tập Kiểm Tra (0.1 - 0.9):</label>
                         <input type="number" id="test_size_en" name="test_size" class="form-control"
                                value="0.2" min="0.1" max="0.9" step="0.1" required>
                     </div>
-                    <button type="submit" class="btn btn-primary w-100">Train English Model</button>
+                    <button type="submit" class="btn btn-primary w-100">Huấn Luyện Mô Hình Tiếng Anh</button>
                 </form>
 
-                <h2 class="mt-4">Vietnamese Dataset</h2>
+                <h2 class="mt-4">Tập Dữ Liệu Tiếng Việt</h2>
                 <form action="{{ url_for('train_model') }}" method="POST" class="mb-4">
                     <input type="hidden" name="language" value="vietnamese">
                     <div class="mb-3">
-                        <label for="file_vi" class="form-label">Choose a Vietnamese CSV file:</label>
+                        <label for="file_vi" class="form-label">Chọn một tệp CSV tiếng Việt:</label>
                         <select id="file_vi" name="file" class="form-select">
                             {% for file in files_vi %}
                             <option value="{{ file }}">{{ file }}</option>
@@ -56,21 +56,19 @@
                         </select>
                     </div>
                     <div class="mb-3">
-                        <label for="test_size_vi" class="form-label">Test Size (0.1 - 0.9):</label>
+                        <label for="test_size_vi" class="form-label">Kích thước Tập Kiểm Tra (0.1 - 0.9):</label>
                         <input type="number" id="test_size_vi" name="test_size" class="form-control"
                                value="0.2" min="0.1" max="0.9" step="0.1" required>
                     </div>
-                    <button type="submit" class="btn btn-primary w-100">Train Vietnamese Model</button>
+                    <button type="submit" class="btn btn-primary w-100">Huấn Luyện Mô Hình Tiếng Việt</button>
                 </form>
 
                 <div class="d-flex justify-content-center">
-                    <a href="{{ url_for('predict') }}" class="btn btn-secondary">Go to Prediction</a>
+                    <a href="{{ url_for('predict') }}" class="btn btn-secondary">Đến Dự Đoán</a>
                 </div>
             </div>
         </div>
     </div>
-
-    <!-- Bootstrap 5 JS (Optional for interactivity, but not necessary here) -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

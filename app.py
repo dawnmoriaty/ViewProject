@@ -31,12 +31,26 @@ result = None
 
 # Tự tạo danh sách stopwords cho tiếng Việt
 vietnamese_stopwords = {
-    'ta', 'mình', 'chúng ta', 'của tôi', 'của mình', 'của chúng ta', 'của chúng mình',
-    'họ', 'chúng', 'của họ', 'của chúng', 'nó', 'của nó',
-    'nay', 'hôm nay', 'hôm qua', 'ngày mai', 'sáng', 'trưa', 'chiều', 'tối', 'lúc', 'khi', 'trước', 'sau', 'rồi', 'sớm',
-    'muộn', 'đây', 'đó', 'này', 'kia', 'đâu', 'nào', 'đến', 'từ', 'qua', 'lên', 'xuống',
-    'thôi', 'nào', 'mà', 'chứ', 'nhé', 'à', 'ơi',
-    'ôi', 'a', 'hay', 'quá', 'lắm', 'thật', 'nhiều', 'ít', 'mấy', 'một số', 'các'
+    "a lô", "a ha", "ai", "ai ai", "ai nấy", "ai đó", "alô", "amen", "anh", "anh ấy",
+    "ba", "ba ba", "ba bản", "ba cùng", "ba họ", "ba ngày", "ba ngôi", "ba tăng",
+    "bao giờ", "bao lâu", "bao nhiêu", "bao nả", "bay biến", "biết", "biết bao",
+    "biết bao nhiêu", "biết chắc", "biết chừng nào", "biết mình", "biết mấy",
+    "biết thế", "biết trước", "biết việc", "biết đâu", "biết đâu chừng", "biết đâu đấy",
+    "biết được", "buổi", "buổi làm", "buổi mới", "buổi ngày", "buổi sớm", "bà",
+    "bà ấy", "bài", "bài bác", "bài bỏ", "bài cái", "bác", "bán", "bán cấp", "bán dạ",
+    "bán thế", "bây bẩy", "bây chừ", "bây giờ", "bây nhiêu", "bèn", "béng", "bên",
+    "bên bị", "bên có", "bên cạnh", "bông", "bước", "bước khỏi", "bước tới", "bước đi",
+    "bạn", "bản", "bản bộ", "bản riêng", "bản thân", "bản ý", "bất chợt", "bất cứ",
+    "bất giác", "bất kì", "bất kể", "bất kỳ", "bất luận", "bất ngờ", "bất nhược",
+    "bất quá", "bất quá chỉ", "bất thình lình", "bất tử", "bất đồ", "bấy", "bấy chầy",
+    "bấy chừ", "bấy giờ", "bấy lâu", "bấy lâu nay", "bấy nay", "bấy nhiêu",
+    "bập bà bập bõm", "bập bõm", "bắt đầu", "bắt đầu từ", "bằng", "bằng cứ", "bằng không",
+    "bằng người", "bằng nhau", "bằng như", "bằng nào", "bằng nấy", "bằng vào", "bằng được",
+    "bằng ấy", "bển", "bệt", "bị", "bị chú", "bị vì", "bỏ", "bỏ bà", "bỏ cha", "bỏ cuộc",
+    "và", "là", "của", "có", "cho", "để", "một", "các", "đã", "này", "với",
+    "từ", "như", "được", "bởi", "vì", "ở", "nên", "ra", "thì", "cũng", "đã",
+    "khi", "còn", "tôi", "bạn", "chúng", "họ", "cô", "ông", "bà", "mình",
+    "chúng ta", "chúng tôi", "cả", "những"
 }
 
 

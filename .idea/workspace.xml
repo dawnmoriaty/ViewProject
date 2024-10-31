@@ -6,8 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="9a20831c-efdf-4ca2-94b9-84ecd1dd713f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/app.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/select_file.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/select_file.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_english.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/model_english.joblib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_vietnamese.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/model_vietnamese.joblib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/predict_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/predict_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/prediction.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/prediction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectorizer_english.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/vectorizer_english.joblib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectorizer_vietnamese.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/vectorizer_vietnamese.joblib" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +124,16 @@
       <workItem from="1729873320152" duration="2127000" />
       <workItem from="1729905298108" duration="4083000" />
       <workItem from="1729923293097" duration="37000" />
+      <workItem from="1729926600430" duration="245000" />
+      <workItem from="1729946261113" duration="394000" />
+      <workItem from="1729959977601" duration="631000" />
+      <workItem from="1730004036115" duration="165000" />
+      <workItem from="1730047583570" duration="283000" />
+      <workItem from="1730118105951" duration="1125000" />
+      <workItem from="1730119892342" duration="1021000" />
+      <workItem from="1730130774185" duration="806000" />
+      <workItem from="1730191284984" duration="631000" />
+      <workItem from="1730382251034" duration="750000" />
     </task>
     <servers />
   </component>
@@ -124,7 +141,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ViewProject$ViewProject.coverage" NAME="ViewProject Coverage Results" MODIFIED="1729872807495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ViewProject$ViewProject.coverage" NAME="ViewProject Coverage Results" MODIFIED="1730191592116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ViewProject$email_spam_detection.coverage" NAME="email_spam_detection Coverage Results" MODIFIED="1729434720088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ViewProject$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1729433354462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
